@@ -1,7 +1,6 @@
 # Number Guessing Game
 
-A Bash-based interactive number guessing game with PostgreSQL integration for user statistics tracking. Built as part of the FreeCodeCamp Relational Database Certification.
-
+A Bash-based interactive number guessing game with PostgreSQL integration for user statistics tracking. 
 ## Features
 - User registration and recognition system
 - Tracks games played and best scores
